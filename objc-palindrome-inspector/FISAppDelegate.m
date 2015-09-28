@@ -9,6 +9,15 @@
     return YES;
 }
 
+- (BOOL)stringIsPalindrome:(NSString *)string{
+    return NO;
+}
+
+- (NSString *)stringByReversingString:(NSString *)string{
+    return nil;
+}
+
+
 /**
  
  * Implement your methods here.
